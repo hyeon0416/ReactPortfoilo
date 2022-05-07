@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ReactPortfolio/static/css/main.83f69f88.css",
+    "main.js": "/ReactPortfolio/static/js/main.aefcb773.js",
+    "static/media/helvetica-neu.ttf": "/ReactPortfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "/ReactPortfolio/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/LaBelleAurore.woff2": "/ReactPortfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff": "/ReactPortfolio/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/CoolveticaRg-Regular.woff2": "/ReactPortfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/ReactPortfolio/index.html",
+    "main.83f69f88.css.map": "/ReactPortfolio/static/css/main.83f69f88.css.map",
+    "main.aefcb773.js.map": "/ReactPortfolio/static/js/main.aefcb773.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83f69f88.css",
+    "static/js/main.aefcb773.js"
+  ]
+}
